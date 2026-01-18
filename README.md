@@ -44,7 +44,6 @@ Bodovanje:
 
 Akuže:
 
-Podržane akuže:
 - 3 asa / 3 duje / 3 trice = 3 boda
 - 4 asa / 4 duje / 4 trice = 4 boda
 - Napolitana (As + Dvica + Trica iste boje) = 3 boda
